@@ -36,7 +36,7 @@ In this approach, you migrate **table by table** (or location by location). For 
 
 ### Step 1 — Identify Consumers Per Table
 
-Determine who is accessing each table and how frequently. See [How Do You Find Out Who Is Consuming What?](../lake-formation-transition-guide-single-account.md#how-do-you-find-out-who-is-consuming-what) in the overview.
+Determine who is accessing each table and how frequently. See [How Do You Find Out Who Is Consuming What?](lake-formation-transition-guide-single-account.md#how-do-you-find-out-who-is-consuming-what) in the overview.
 
 ### Step 2 — Prioritize Tables
 

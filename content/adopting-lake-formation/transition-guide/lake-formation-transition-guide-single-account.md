@@ -40,7 +40,7 @@ Migrate **table by table** (or location by location). For each resource, all con
 - Grant LF permissions to all consumers of a table before activating credential vending
 - Rollback by deregistering the location (affects all consumers of that table)
 
-👉 [Full details: Transition Plan #1 — Per Resource](transition-guide/single-account-transition-plan-1-per-resource.md)
+👉 [Full details: Transition Plan #1 — Per Resource](single-account-transition-plan-1-per-resource.md)
 
 ### Plan #2 — Per User Transition
 
@@ -50,7 +50,7 @@ Migrate **user by user** (or cohort by cohort). Hybrid access mode allows you to
 - Use `CreateLakeFormationOptIn` to flip individual users to LF
 - Rollback by removing the opt-in for a specific user (surgical, no impact to others)
 
-👉 [Full details: Transition Plan #2 — Per User](transition-guide/single-account-transition-plan-2-per-user.md)
+👉 [Full details: Transition Plan #2 — Per User](single-account-transition-plan-2-per-user.md)
 
 ---
 
